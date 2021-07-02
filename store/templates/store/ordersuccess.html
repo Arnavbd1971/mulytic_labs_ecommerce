@@ -1,0 +1,13 @@
+{% extends 'store/main.html' %}
+{% load static %}
+{% block content %}
+<div class="info">
+    <div class="container" style="text-align:center;">
+        <h1>Order Success</h1>
+        <br>
+        <h3>Congratulations! You have successfully done the Order. Your order will reach to you in 5 days.</h3>
+        <a class="btn btn-primary btn-lg signup-button" href="{% url "generateinvoice" pk=id %}">Print Invoice</a>
+    </div>
+</div>
+
+{% endblock content %}
