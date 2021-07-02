@@ -4,7 +4,7 @@ This is a very simple e-commerce website built with Django.
 ## Project Summary
 This is a very simple Django e-commerce project, where we have Product Management, Order Management for a guest user or an authentic login user, Cart System, Checkout system, and at last generate order invoice with QRcode witch contains customer information and cart details. 
 
-## Snapchots from the project
+## Snapshots from the project
 ![LCO Mascot](http://ec2-54-237-160-80.compute-1.amazonaws.com/profilepic/11.png "LCO")
 ![LCO Mascot](http://ec2-54-237-160-80.compute-1.amazonaws.com/profilepic/22.png "LCO")
 ![LCO Mascot](http://ec2-54-237-160-80.compute-1.amazonaws.com/profilepic/33.png "LCO")
